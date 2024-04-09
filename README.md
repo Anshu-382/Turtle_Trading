@@ -42,4 +42,4 @@ To run the code and reproduce the analysis, please follow these steps:
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the main script: `python main.py`
 
-For more detailed information, please refer to the code comments and the [Research Paper](https://link.to.research.paper) mentioned in the introduction.
+For more detailed information, please refer to the code comments and the [Research Paper](https://drive.google.com/file/d/1FjW2jjzTeEcddeVVo-ZoTqOe8T3bo6bp/view?usp=sharing) mentioned in the introduction.
