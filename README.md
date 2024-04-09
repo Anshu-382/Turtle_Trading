@@ -1,6 +1,6 @@
 # BTC Price Prediction and Trading Strategy
 
-This repository contains the code and analysis for a quantitative trading strategy based on the Five-day Average Manipulation Method and Diversification Strategy, as described in the research paper by Kevin Chan, Shiyi Bai, Man Jeoi Lau, and Fang Lin.
+This repository contains the code and analysis for a quantitative trading strategy based on the Five-day Average Manipulation Method and Diversification Strategy, as described in the research paper.
 
 ## Overview
 
